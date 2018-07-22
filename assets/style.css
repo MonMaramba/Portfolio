@@ -3,7 +3,7 @@
     padding: 0;
 }
 body {
-    background: rgb(154, 235, 235);
+    background: rgb(149, 241, 241);
 }
 #hexGrid {
   display: flex;
@@ -151,6 +151,33 @@ h4 {
   -webkit-transform:translate3d(0,0,0);
       -ms-transform:translate3d(0,0,0);
           transform:translate3d(0,0,0);
+}
+
+h5 {
+    font-family: 'Cantarell', sans-serif;
+    position: relative;
+    display: block;
+    text-align: center;
+}
+
+a {
+    font-family: 'Cantarell', sans-serif;
+    position: relative;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#Pfoot {
+    font-family: 'Cantarell', sans-serif;
+    width: 100%;
+    padding: 0;
+    margin: 0 auto;
+    background-color: rgb(233, 171, 112);
+    text-align: center;
+    border: 1px solid black;
+
 }
 
 /* HEXAGON SIZING AND EVEN ROW INDENTATION */
