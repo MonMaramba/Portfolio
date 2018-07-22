@@ -89,7 +89,7 @@ h4 {
     width: 100%;
     height: 100%;
     text-align: center;
-    box-shadow: 5px 10px #888888;
+    box-shadow: 5px 10px 15px #888888;
     color: rgb(255, 255, 255);
     overflow: hidden;
     -webkit-transform: skewY(-30deg) rotate3d(0,0,1,60deg);
